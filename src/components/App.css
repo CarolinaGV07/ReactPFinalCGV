@@ -1,0 +1,47 @@
+.itemDetail {
+    max-width: 800px;
+    margin-top: 25px;
+}
+
+.styleDarkMode {
+    background-color: black;
+    color: white;
+}
+
+.cardBodyDarkMode {
+    background-color:black;
+    color: white;
+}
+
+.cardBody {
+    background-color: white;
+    color: black;
+}
+
+.cantCart {
+    position: relative;
+    left: 12%;
+}
+
+.cartDivCont{
+    margin-top: 5%;
+    max-width:600px;
+}
+
+.itemCart{
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.buttonSpace{
+    margin: 5px;
+}
+
+.svgImg {
+    width: 25px;
+}
+
+.itemCountButtons {
+    margin: 3px 3px 3px 3px;
+}
